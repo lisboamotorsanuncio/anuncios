@@ -177,7 +177,7 @@ function ajustarTela(){
     const overlay = document.querySelector(".overlay");
     if(!overlay) return;
 
-    const escala = Math.max(
+    const escala = Math.min(
         window.innerWidth / 1920,
         window.innerHeight / 1080
     );
