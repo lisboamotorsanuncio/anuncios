@@ -4,7 +4,7 @@ window.VEICULOS = [
         marca:"JEEP",
         modelo:"COMPASS",
         versao:"LIMITED 2019/2020",
-        imagem:"compass.jpeg",
+        imagem:"COMPASS.jpeg",
         specs:["2.0 DIESEL","4X4","AUTOMÁTICO","BAIXA KM"],
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
@@ -13,7 +13,7 @@ window.VEICULOS = [
         marca:"JEEP",
         modelo:"COMPASS",
         versao:"LIMITED 2019/2020",
-        imagem:"compass1.jpeg",
+        imagem:"COMPASS1.jpeg",
         specs:["2.0 DIESEL","4X4","AUTOMÁTICO","BAIXA KM"],
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
@@ -22,7 +22,7 @@ window.VEICULOS = [
         marca:"JEEP",
         modelo:"COMPASS",
         versao:"LIMITED 2019/2020",
-        imagem:"compass2.jpeg",
+        imagem:"COMPASS2.jpeg",
         specs:["2.0 DIESEL","4X4","AUTOMÁTICO","BAIXA KM"],
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
@@ -31,7 +31,7 @@ window.VEICULOS = [
         marca:"JEEP",
         modelo:"COMPASS",
         versao:"LIMITED 2019/2020",
-        imagem:"compass4.jpeg",
+        imagem:"COMPASS4.jpeg",
         specs:["2.0 DIESEL","4X4","AUTOMÁTICO","BAIXA KM"],
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
@@ -40,7 +40,7 @@ window.VEICULOS = [
         marca:"JEEP",
         modelo:"COMPASS",
         versao:"LIMITED 2019/2020",
-        imagem:"compass7.jpeg",
+        imagem:"COMPASS7.jpeg",
         specs:["2.0 DIESEL","4X4","AUTOMÁTICO","BAIXA KM"],
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
