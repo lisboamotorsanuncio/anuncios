@@ -9,7 +9,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
     {
         marca:"JEEP",
         modelo:"COMPASS",
@@ -19,7 +18,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
       {
         marca:"JEEP",
         modelo:"COMPASS",
@@ -47,7 +45,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
     {
         marca:"HYUNDAI",
         modelo:"HB20",
@@ -107,7 +104,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
      {
         marca:"CHEVROLET",
         modelo:"SONIC",
@@ -117,7 +113,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
      {
         marca:"CHEVROLET",
         modelo:"SONIC",
@@ -127,7 +122,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
      {
         marca:"CHEVROLET",
         modelo:"SONIC",
@@ -137,7 +131,6 @@ window.VEICULOS = [
         de:"R$ 00.000,00",
         por:"R$ 00.000,00"
     },
-
      {
         marca:"CHEVROLET",
         modelo:"SONIC",
